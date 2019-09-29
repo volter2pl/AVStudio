@@ -1,0 +1,114 @@
+[AVStudio]
+Version=AVStudio 1.0 beta
+LangError=Plik s³ownika jest innej wersji ni¿ program
+
+[Messages]
+AvsNeed=Do poprawnej pracy aplikacja wymaga zainstalowania serwera klatek AviSynth
+OutOfRange=Wartoœæ poza zakresem
+Overwrite=Klip o tej nazwie ju¿ istnieje. Czy chcesz nadpisaæ?
+ClipNameError=Wpisz nazwe klipu
+UnknownError=Napotkano nieoczekiwany b³¹d
+CouldNotFindMediaPlayer=Nie znaleziono odtwarzacza plików video
+RemoveClip=Czy chcesz usun¹æ wybrany klip?
+SaveChanges=Czy chcesz zapisaæ zmiany w projekcie?
+FileOverwrite=Istnieje plik o podanej nazwie. Czy chcesz nadpisaæ?
+NoFile=Plik o podanej nazwie nie istnieje
+
+[Main]
+NoChange=Bez zmian
+File=Plik
+New=Nowy projekt
+Open=Otwórz projekt
+Save=Zapisz projekt
+SaveAs=Zapisz projekt jako
+ExportAVS=Export AVS
+Exit=Koniec
+Clip=Klip
+Add=Dodaj klip
+Mod=Edytuj klip
+Remove=Usuñ klip
+Tools=Narzêdzia
+Settings=Ustawienia
+Reload=Odœwie¿
+Preview=Podgl¹d
+Help=Pomoc
+About=O programie
+Autor=Autor
+Untitled=bez nazwy
+
+[Clip]
+
+of=z
+TempFilters=Filtry pomocnicze - nie zostan¹ dodane do projektu
+Player=Player
+Script=Skrypt
+Edit=Edycja
+SelectEven=Parzyste
+SelectOdd=Nieparzyste
+SelectEvery=Wybierz co...
+Apply=Zastosuj
+OK=OK
+Cancel=Anuluj
+Preview=Podgl¹d
+SaveAVS=Zapisz AVS
+SaveBMP=Zapisz BMP
+Clip=Klip
+Info=Informacje
+Reverse=Odtwórz od koñca
+Resolution=Rozdzielczoœæ
+AspectRatio=Proporcje
+AspectRatioError=B³¹d aspektu
+VerticalZoom=Zoom pion.
+HorizontalZoom=Zoom poziom.
+Resize=Zmiana rozdzielczoœci
+Crop=Kadrowanie
+Letterbox=Obramowanie (Letterbox)
+Picture=Obraz
+Invert=Odwróæ kana³
+Red=Czerwony
+Green=Zielony
+Blue=Niebieski
+TurnFlip=Odwróæ obraz
+VerticalFlip=Odbij pionowo
+HorizontalFlip=Odbij poziomo
+TurnLeft=Odwróæ w lewo
+TurnRight=Odwróæ w prawo
+Greyscale=Skala szaroœci
+ConvertTo=Zmieñ przestrzeñ kolorów
+Fade=
+FadeIn=Rozjaœnij
+FadeOut=Œciemnij
+Tweak=Nasycenie
+Hue=Barwa
+Saturation=Nasycenie
+Bright=Jasnoœæ
+Contrast=Kontrast
+Coring=Przytnij kana³y lumy do [16,235]
+SharpenBlur=Ostroœæ/Rozmycie
+HorizontalAmount=Promieñ poziomy
+VerticalAmount=Promieñ pionowy
+HeqV=Promieñ poziomy = Promieñ pionowy
+Sound=DŸwiêk
+NormalizeTab=Normalizacja
+Normalize=Normalizuj
+NormalizeShowInfo=Poka¿ info
+Volume=G³oœnoœæ
+Chanels=Kana³y
+Mono=Mono
+Left=Lewy
+Right=Prawy
+Stereo=Stereo (AC3)
+Precision=Próbkowanie
+SamplingRate=Czêstotliwoœæ próbkowania [Hz]
+Fast=Turbo (gorsza jakoœæ)
+Else=Inne
+EnsureVBRMP3Sync=Synchronizuj VBR MP3
+KillAudio=Usuñ œcie¿kê dŸwiêkow¹
+
+[Settings]
+Status=Status
+Version=Wersja
+Lang=Jêzyk
+Apply=Zastosuj
+OK=OK
+Cancel=Anuluj

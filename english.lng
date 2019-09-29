@@ -1,0 +1,114 @@
+[AVStudio]
+Version=AVStudio 1.0 beta
+LangError=Language file is not up to date with the application
+
+[Messages]
+AvsNeed=You need AviSynth to run AVStudio
+OutOfRange=Value out of range
+Overwrite=Name already exists. Do you want to overwrite?
+ClipNameError=Enter the clip name
+UnknownError=An unknown error occured
+CouldNotFindMediaPlayer=Media player could not be found
+RemoveClip=Do you want to remove this clip?
+SaveChanges=Do you want to save changes?
+FileOverwrite=Do you want to overwrite?
+NoFile=No File
+
+[Main]
+NoChange=No change
+File=File
+New=New project
+Open=Open project
+Save=Save project
+SaveAs=Save project as
+ExportAVS=Export AVS
+Exit=Exit
+Clip=Clip
+Add=Add clip
+Mod=Edit clip
+Remove=Remove clip
+Tools=Tools
+Settings=Settings
+Reload=Reload
+Preview=Preview
+Help=Help
+About=About
+Autor=Autor
+Untitled=Untitled
+
+[Clip]
+
+of=of
+TempFilters=Temp filters - won't be included in the project
+Player=Player
+Script=Script
+Edit=Edit
+SelectEven=Select Even
+SelectOdd=Select Odd
+SelectEvery=Select Every
+Apply=Apply
+OK=OK
+Cancel=Cancel
+Preview=Preview
+SaveAVS=Save AVS
+SaveBMP=Save BMP
+Clip=Clip
+Info=Info
+Reverse=Reverse
+Resolution=Resolution
+AspectRatio=Aspect Ratio
+AspectRatioError=AR Error
+VerticalZoom=Vertical Zoom
+HorizontalZoom=Horizontal Zoom
+Resize=Resize
+Crop=Crop
+Letterbox=Letterbox
+Picture=Picture
+Invert=Invert
+Red=Red
+Green=Green
+Blue=Blue
+TurnFlip=Turn/Flip
+VerticalFlip=Vertical Flip
+HorizontalFlip=Horizontal Flip
+TurnLeft=Turn Left
+TurnRight=Turn Right
+Grayscale=Grayscale
+ConvertTo=Convert color space
+Fade=
+FadeIn=Fade In
+FadeOut=Fade Out
+Tweak=Tweak
+Hue=Hue
+Saturation=Saturation
+Bright=Bright
+Contrast=Contrast
+Coring=Clip luma to [16,235]
+SharpenBlur=Sharpen/Blur
+HorizontalAmount=Horizontal Amount
+VerticalAmount=Vertical Amount
+HeqV=amountV = amountH
+Sound=Sound
+NormalizeTab=Normalize
+Normalize=Normalize
+NormalizeShowInfo=Show Info
+Volume=Volume
+Channels=Channels
+Mono=Mono
+Left=Left
+Right=Right
+Stereo=Stereo (AC3)
+Precision=Precision
+SamplingRate=Sampling Rate [Hz]
+Fast=Fast (lower quality)
+Else=Else
+EnsureVBRMP3Sync=Ensure VBR-MP3 Sync
+KillAudio=Kill Audio
+
+[Settings]
+Status=Status
+Version=Version
+Lang=Lang
+Apply=Apply
+OK=OK
+Cancel=Cancel
